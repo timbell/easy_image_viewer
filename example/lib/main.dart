@@ -1,6 +1,6 @@
 import 'package:easy_image_viewer/easy_image_viewer.dart';
 import 'package:easy_image_viewer_example/async_demo_page.dart';
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 
 void main() => runApp(const MyApp());
 

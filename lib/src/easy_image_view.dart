@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 
 /// A full-sized view that displays the given image, supporting pinch & zoom
 class EasyImageView extends StatefulWidget {

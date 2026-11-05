@@ -2,7 +2,7 @@
 /// It supports pinch & zoom, and paging through multiple images.
 library;
 
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:flutter/services.dart';
 
 import 'src/easy_image_provider.dart';
