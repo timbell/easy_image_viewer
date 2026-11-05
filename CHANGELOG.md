@@ -1,5 +1,8 @@
 # EasyImageViewer Changelog
 
+## 2.0.0
+- material_ui
+
 ## 1.5.1
 - Improve SafeArea support by defaulting the `barrierColor` to be the same as the `backgroundColor`, thus eliminating visually ugly bars on the top and bottom when using `useSafeArea: true`. The `barrierColor` can be now also be set explicitly (see [GH-62](https://github.com/thesmythgroup/easy_image_viewer/issues/62)).
 

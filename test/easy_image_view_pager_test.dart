@@ -4,7 +4,7 @@ import 'package:easy_image_viewer/src/easy_image_view_pager.dart';
 
 import 'support/test_helper.dart';
 
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {

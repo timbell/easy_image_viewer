@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 
 /// Provider for images, their count and the initial index to display
 abstract class EasyImageProvider {

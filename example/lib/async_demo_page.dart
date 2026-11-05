@@ -1,5 +1,5 @@
 import 'package:easy_image_viewer/easy_image_viewer.dart';
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 
 /// Simple example of how to use EasyImageViewer with a FutureBuilder
 class AsyncDemoPage extends StatefulWidget {
